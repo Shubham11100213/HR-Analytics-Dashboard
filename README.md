@@ -1,6 +1,6 @@
 # HR Analyst Attrition Dashboard 📊
 
-![Dashboard Preview](https://github.com/Shubham11100213/SuperStore-Sales-Forecasting/blob/main/Super%20Store%20Sales.pbix) 
+![Dashboard Preview](https://github.com/Shubham11100213/HR-Analytics-Dashboard/blob/main/HR%20Analyst.pbix)) 
 
 Welcome to the HR Analyst Attrition Dashboard project! This powerful tool is designed to help HR professionals and organizations gain deep insights into employee attrition patterns and take data-driven actions to retain top talent.
 
