@@ -26,7 +26,7 @@ Employee attrition can have a significant impact on an organization's success an
 
 To explore the HR Analyst Attrition Dashboard:
 
-1. Click [Dashboard Link](https://github.com/Shubham11100213/SuperStore-Sales-Forecasting/blob/main/Super%20Store%20Sales.pbix)  to access the live dashboard.
+1. Click [Dashboard Link](https://github.com/Shubham11100213/HR-Analytics-Dashboard/blob/main/HR%20Analyst.pbix))  to access the live dashboard.
 2. Feel free to interact with the various charts and filters to uncover insights.
 3. Share your feedback and insights with us; your input is valuable!
 
